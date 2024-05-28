@@ -1,0 +1,179 @@
+# Ignore Visual Studio temporary files, build results, and
+# other common files from the solution's root directory.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (VSCode)
+.vscode/
+.vscode/*
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Node.js cache directories
+node_modules/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/node_modules
+wwwroot/lib
+
+# Entity Framework Core Migrations
+Migrations/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!.nuget/NuGet.Config
+!.nuget/NuGet.exe
+!.nuget/NuGet.targets
+
+# Code coverage results
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+*.lcov
+coverage*.json
+coverage*.xml
+coverage*.info
+coverage*.html
+
+# Churn results
+*.churn
+
+# Translations
+*.i18n.json
+*.i18n
+
+# SQL Server database file
+*.mdf
+*.ldf
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Entity Framework 6
+_Resharper*/
+_Resharper*/
+_Resharper.Caches/
+
+# VS for Mac
+.vscode/
+.idea/
+.idea/*
+
+# Rider
+.idea/
+.idea/*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Directories potentially created on remote AFP share
+.AppleDouble
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# JetBrains Rider
+.idea/
+.idea/*
+*.sln.iml
+
+# Business Intelligence Projects
+*.rdl.data
+*.bim.layout
+*.rdl.data
+*.rdl.data.cache
+*.cube.cache
+
+# Uncomment if using
+# secrets.json
+
+# Add folders or files that need to be ignored for specific project structure
+src/Thedotnet.Api/obj/
+src/Thedotnet.Api/bin/
+src/Thedotnet.Core/obj/
+src/Thedotnet.Core/bin/
+src/Thedotnet.Infrastructure/obj/
+src/Thedotnet.Infrastructure/bin/
+tests/Thedotnet.Api.Tests/obj/
+tests/Thedotnet.Api.Tests/bin/
+tests/Thedotnet.Core.Tests/obj/
+tests/Thedotnet.Core.Tests/bin/
+tests/Thedotnet.Infrastructure.Tests/obj/
+tests/Thedotnet.Infrastructure.Tests/bin/
