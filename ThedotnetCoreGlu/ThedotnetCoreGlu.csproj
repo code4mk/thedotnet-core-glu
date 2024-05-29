@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Code4mk.Pkg.ThedotnetCoreGlu</PackageId>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Author>Code4mk</Author>
     <Product>ThedotnetCoreGlu</Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
